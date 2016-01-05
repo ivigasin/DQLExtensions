@@ -1,0 +1,8 @@
+{
+  "name": "ivigasin/dql-extensions",
+  "autoload": {
+    "psr-0" : {
+      "ivigasin\\dql-extensions" : "src"
+    }
+  }
+}
